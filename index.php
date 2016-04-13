@@ -16,8 +16,11 @@
 	<div class="list">
 		<h1 class="header">To do:</h1>
 
-		<ul>
-			<li><span class="item"></span>Pick up shopping</li>
+		<ul class="items">
+			<li>
+				<span class="item"></span>Pick up shopping
+				<a class="done-button" href="#">Mark as done</a>
+			</li>
 			<li><span class="item"></span>Learn PHP</li>
 			<li><span class="item"></span>Have fun</li>
 		</ul>
